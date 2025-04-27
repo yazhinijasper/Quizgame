@@ -1,2 +1,2 @@
 # Quizgame
-miniproject - quizgame
+This is a simple quiz miniproject.
